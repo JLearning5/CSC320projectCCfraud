@@ -6,7 +6,7 @@ This project aims to detect fraudulent credit card transactions using a Logistic
 
 You can run this project interactively in your browser via Binder by clicking the badge below:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/heinerigel/Credit-Card-Fraud-Detection-project/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/heinerigel/Credit-Card-Fraud-Detection-project/main)
 
 ## Project Overview
 
