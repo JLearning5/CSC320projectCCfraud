@@ -1,0 +1,29 @@
+name: creditcard_fraud_detection
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - ipywidgets
+  - jupyterlab
+  - notebook
+  - nb_conda_kernels
+  - nb_conda
+  - ipython
+  - statsmodels
+  - jupyter_contrib_nbextensions
+  - jupyterlab_widgets
+  - nodejs
+  - pip
+  - pip:
+      - imbalanced-learn
+      - widgetsnbextension
+      - ipywidgets
+      - voila
+      - bqplot
+      - plotly
