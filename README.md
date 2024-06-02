@@ -12,7 +12,7 @@ You can run this project interactively in your browser via Voilà by clicking th
 
 You can run the notebooks in your browser via Binder by clicking the badge below:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JLearning5/Credit-Card-Fraud-Detection-project/fc7fda784612111d5f07399b7995980b9b565654?urlpath=voila/render/notebooks/Fraud_Detection_preview.ipynb)
+[![Binder]([https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JLearning5/Credit-Card-Fraud-Detection-project/fc7fda784612111d5f07399b7995980b9b565654?urlpath=voila/render/notebooks/Fraud_Detection_preview.ipynb)
 
 ## Project Overview
 
