@@ -6,14 +6,13 @@ This project aims to detect fraudulent credit card transactions using a Logistic
 
 You can run this project interactively in your browser via Voilà by clicking the badge below:
 
-![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JLearning5/Credit-Card-Fraud-Detection-project/HEAD)](https://mybinder.org/v2/gh/JLearning5/Credit-Card-Fraud-Detection-project/HEAD?urlpath=voila/render/notebooks/Fraud_Detection_preview.ipynb
-)
+[![Launch Voilà](https://img.shields.io/badge/launch-Voilà-blue.svg)](https://mybinder.org/v2/gh/JLearning5/Credit-Card-Fraud-Detection-project/HEAD?urlpath=voila/render/notebooks/Fraud_Detection_preview.ipynb)
 
 ## Binder
 
 You can run the notebooks in your browser via Binder by clicking the badge below:
 
-https://mybinder.org/v2/gh/JLearning5/Credit-Card-Fraud-Detection-project/fc7fda784612111d5f07399b7995980b9b565654?urlpath=lab%2Ftree%2Fnotebooks%2FFraud_detection.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JLearning5/Credit-Card-Fraud-Detection-project/fc7fda784612111d5f07399b7995980b9b565654?urlpath=voila/render/notebooks/Fraud_Detection_preview.ipynb)
 
 ## Project Overview
 
