@@ -23,7 +23,7 @@ The goal of this project is to build a machine learning model to detect fraudule
 - **Data Preprocessing:** Handling imbalanced data using under-sampling.
 - **Model Training:** Logistic Regression model for classification.
 - **Evaluation:** Model evaluation using accuracy score, ROC curve, and precision-recall curve.
-- **Visualization:** Various plots to visualize class distribution, transaction amounts, time distribution, correlation matrix, and more.
+- **Visualisation:** Various plots to visualise class distribution, transaction amounts, time distribution, correlation matrix, and more.
 
 ## Dependencies
 
