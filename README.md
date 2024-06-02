@@ -12,7 +12,7 @@ You can run this project interactively in your browser via Voilà by clicking th
 
 You can run the notebooks in your browser via Binder by clicking the badge below:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JLearning5/Credit-Card-Fraud-Detection-project/fc7fda784612111d5f07399b7995980b9b565654?urlpath=lab%2Ftree%2Fnotebooks%2FFraud_detection.ipynb)
+[![Binder](https://notebooks.gesis.org/binder/jupyter/user/jlearning5-cred-tection-project-7x6damc7/lab/workspaces/auto-G/tree/notebooks/Fraud_detection.ipynb)
 
 ## Project Overview
 
