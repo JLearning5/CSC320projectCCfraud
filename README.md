@@ -6,7 +6,7 @@ This project aims to detect fraudulent credit card transactions using a Logistic
 
 You can run this project interactively in your browser via Binder by clicking the badge below:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JLearning5/Credit-card-fraud-detection/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JLearning5/Credit-Card-Fraud-Detection-project/HEAD)
 
 ## Project Overview
 
