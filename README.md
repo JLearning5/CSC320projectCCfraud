@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection-Project
+# Credit Card Fraud Detection Project
 
 This project aims to detect fraudulent credit card transactions using a Logistic Regression model. The dataset used is the "Credit Card Fraud Detection" dataset from Kaggle.
 
@@ -31,7 +31,7 @@ The project uses the following libraries:
 - Scikit-learn
 - Ipywidgets
 
-These dependencies are listed in the `environment.yml` file for easy setup using conda.
+These dependencies are listed in the `requirements.txt` file for easy setup using conda.
 
 ## How to Access and Use the Fraud Detection Web Page
 
