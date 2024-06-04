@@ -2,7 +2,13 @@
 
 This project aims to detect fraudulent credit card transactions using a Logistic Regression model. The dataset used is the "Credit Card Fraud Detection" dataset from Kaggle.
 
-## Google Colaboratory
+## How to Access and Use the Fraud Detection Web Page
+
+For detailed instructions on how to access and use the web page, please refer to the User Guide:
+
+[![User Guide](https://img.shields.io/badge/User_Guide-PDF-blue)](https://github.com/yourusername/fraud-detection/raw/main/user_guide.pdf)
+
+# Google Colaboratory
 
 You can run this project interactively in your browser via Google Colab by clicking the badge below:
 
@@ -32,12 +38,6 @@ The project uses the following libraries:
 - Ipywidgets
 
 These dependencies are listed in the `requirements.txt` file for easy setup using conda.
-
-## How to Access and Use the Fraud Detection Web Page
-
-For detailed instructions on how to access and use the web page, please refer to the User Guide:
-
-[![User Guide](https://img.shields.io/badge/User_Guide-PDF-blue)](https://github.com/yourusername/fraud-detection/raw/main/user_guide.pdf)
 
 ## Setup Instructions
 
