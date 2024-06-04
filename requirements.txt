@@ -1,7 +1,6 @@
 imbalanced-learn
 widgetsnbextension
 ipywidgets
-voila==0.5.6
 bqplot
 plotly
 numpy
@@ -10,11 +9,9 @@ seaborn
 matplotlib
 scikit-learn
 ipywidgets
-jupyterlab
 notebook
 ipython==8.24.0
 statsmodels
-jupyter_contrib_nbextensions
-jupyterlab_widgets
 nodejs
 pip==24.0
+Google Colaboratory
