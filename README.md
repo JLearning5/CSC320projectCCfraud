@@ -18,7 +18,7 @@ You can run this project interactively in your browser via Google Colab by click
 
 To access and examine the machine learning workflow, please click the badge below:
 
-[![Jupyter Notebook](https://img.shields.io/badge/Notebook-Fraud_detection.ipynb-orange?logo=jupyter)](https://github.com/JLearning5/Credit-Card-Fraud-Detection-project/blob/main/notebooks/Fraud_detection.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iXv3pQNWW2-x-_zQSPyJVXDvR0JpYeNw?usp=sharing)
 
 ## Project Overview
 
