@@ -1,6 +1,8 @@
 # Credit Card Fraud Detection Project
 
-This project aims to detect fraudulent credit card transactions using a Logistic Regression model. The dataset used is the "Credit Card Fraud Detection" dataset from Kaggle.
+This project aims to detect fraudulent credit card transactions using a Logistic Regression model. The dataset used is the "Credit Card Fraud Detection" dataset from Kaggle. Click the badge below to view the dataset:
+
+[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-blue)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data)
 
 ## How to Access and Use the Fraud Detection Web Page
 
