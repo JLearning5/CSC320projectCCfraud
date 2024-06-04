@@ -2,17 +2,11 @@
 
 This project aims to detect fraudulent credit card transactions using a Logistic Regression model. The dataset used is the "Credit Card Fraud Detection" dataset from Kaggle.
 
-## Voilà
+## Google Colaboratory
 
 You can run this project interactively in your browser via Voilà by clicking the badge below:
 
 [![Launch Voilà](https://img.shields.io/badge/launch-Voilà-blue.svg)](https://mybinder.org/v2/gh/JLearning5/Credit-Card-Fraud-Detection-project/HEAD?urlpath=voila/render/notebooks/Fraud_Detection_preview.ipynb)
-
-## Binder
-
-You can run the notebooks in your browser via Binder by clicking the badge below:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JLearning5/Credit-Card-Fraud-Detection-project/HEAD?labs)
 
 ## Project Overview
 
@@ -36,10 +30,14 @@ The project uses the following libraries:
 - Matplotlib
 - Scikit-learn
 - Ipywidgets
-- JupyterLab
-- Voila
 
 These dependencies are listed in the `environment.yml` file for easy setup using conda.
+
+## How to Access and Use the Fraud Detection Web Page
+
+For detailed instructions on how to access and use the web page, please refer to the User Guide:
+
+[![User Guide](https://img.shields.io/badge/User_Guide-PDF-blue)](https://github.com/yourusername/fraud-detection/raw/main/user_guide.pdf)
 
 ## Setup Instructions
 
