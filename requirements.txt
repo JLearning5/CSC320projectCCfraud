@@ -14,4 +14,3 @@ ipython==8.24.0
 statsmodels
 nodejs
 pip==24.0
-Google Colaboratory
