@@ -6,7 +6,7 @@ This project aims to detect fraudulent credit card transactions using a Logistic
 
 You can run this project interactively in your browser via Google Colab by clicking the badge below:
 
-[![Launch Voilà](https://img.shields.io/badge/launch-Voilà-blue.svg)](https://mybinder.org/v2/gh/JLearning5/Credit-Card-Fraud-Detection-project/HEAD?urlpath=voila/render/notebooks/Fraud_Detection_preview.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AChLOW-6Onf3h_xSq_urlGBCHGWjilCz?usp=sharing)
 
 ## Project Overview
 
