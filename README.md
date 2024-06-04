@@ -8,11 +8,17 @@ For detailed instructions on how to access and use the web page, please refer to
 
 [![User Guide](https://img.shields.io/badge/User_Guide-PDF-blue)](https://github.com/yourusername/fraud-detection/raw/main/user_guide.pdf)
 
-# Google Colaboratory
+## Google Colaboratory
 
 You can run this project interactively in your browser via Google Colab by clicking the badge below:
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AChLOW-6Onf3h_xSq_urlGBCHGWjilCz?usp=sharing)
+
+## How to Access the Machine Learning Workflow
+
+To access and examine the machine learning workflow, please click the badge below:
+
+[![Jupyter Notebook](https://img.shields.io/badge/Notebook-Fraud_detection.ipynb-orange?logo=jupyter)](../notebooks/Fraud_detection.ipynb)
 
 ## Project Overview
 
