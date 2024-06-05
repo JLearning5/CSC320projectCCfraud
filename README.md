@@ -10,7 +10,7 @@ Click the badge below to view the dataset:
 
 For detailed instructions on how to access and use the web page, please refer to the User Guide:
 
-[![User Guide](https://img.shields.io/badge/User_Guide-PDF-blue)](https://github.com/yourusername/fraud-detection/raw/main/user_guide.pdf)
+[![User Guide](https://img.shields.io/badge/User_Guide-PDF-blue)](https://drive.google.com/file/d/1x8FOcW08MG5ObBAz7TvCA_V0Qv183m83/view?usp=sharing)
 
 ## Google Colaboratory
 
