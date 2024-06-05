@@ -1,5 +1,5 @@
 # Below is a list of features, classified as fraudulent and legitimate:
-
+  NB: Each line of comma-separated values is a transaction's features.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Legitimate:
