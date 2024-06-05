@@ -48,13 +48,3 @@ The project uses the following libraries:
 - Ipywidgets
 
 These dependencies are listed in the `requirements.txt` file.
-
-## Setup Instructions
-
-1. **empty:**
-
-   ```bash
-   git clone https://github.com/heinerigel/Credit-Card-Fraud-Detection-project.git
-   cd Credit-Card-Fraud-Detection-project
-
-   (# this code is a placeholder)
