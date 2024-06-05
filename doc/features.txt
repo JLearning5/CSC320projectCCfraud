@@ -44,7 +44,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# You can also source for features using the ChatGPT prompt below:
+# You can source for features using the ChatGPT prompt below:
 
 I have a sample of feature values for a credit card transaction as follows:
 
