@@ -48,3 +48,56 @@ The project uses the following libraries:
 - Ipywidgets
 
 These dependencies are listed in the `requirements.txt` file.
+
+### Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Mrmesmerized/Toxic-Word-Detection-Project.git
+   cd Toxic-word-detection-project
+   
+2. Create a virtual environment to manage dependencies:
+   ```bash
+   python -m venv env
+
+3. Activate the virtual environment:
+
+   On Windows:
+   ```bash
+   .\env\Scripts\activate
+   ```
+   
+   On macOS and Linux:
+   ```bash
+   source env/bin/activate
+
+4. Install the required Python packages:
+   ```bash
+   pip install -r requirements.txt
+   
+### Running the Project
+
+5. Start Jupyter Notebook or Jupyter Lab:
+   ```bash
+   jupyter notebook
+   ```
+
+   or
+
+   ```bash
+   jupyter lab
+   
+6. Open the project notebook:
+   
+   Navigate to 'notebooks' directory in the Jupyter interface and open 'Toxic_word_detection.ipynb'.
+
+### Running the Interactive Voilà Interface
+
+7. To run the Voilà interface, ensure you have Voilà installed:
+   ```bash
+   pip install voila
+
+8. Launch the Voilà interface:
+   ```bash
+   voila notebooks/TWD_preview.ipynb
+   ```
