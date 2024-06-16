@@ -53,8 +53,8 @@ These dependencies are listed in the `requirements.txt` file.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Mrmesmerized/Toxic-Word-Detection-Project.git
-   cd Toxic-word-detection-project
+   git clone https://https://github.com/JLearning5/Credit-Card-Fraud-Detection-project.git
+   cd Credit-Card-Fraud-Detection-project
    
 2. Create a virtual environment to manage dependencies:
    ```bash
@@ -89,7 +89,7 @@ These dependencies are listed in the `requirements.txt` file.
    
 6. Open the project notebook:
    
-   Navigate to 'notebooks' directory in the Jupyter interface and open 'Toxic_word_detection.ipynb'.
+   Navigate to 'notebooks' directory in the Jupyter interface and open 'Fraud_detection.ipynb'.
 
 ### Running the Interactive Voilà Interface
 
@@ -99,5 +99,5 @@ These dependencies are listed in the `requirements.txt` file.
 
 8. Launch the Voilà interface:
    ```bash
-   voila notebooks/TWD_preview.ipynb
+   voila notebooks/Fraud_Detection_preview.ipynb
    ```
