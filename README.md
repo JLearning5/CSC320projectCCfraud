@@ -46,6 +46,7 @@ The project uses the following libraries:
 - Matplotlib
 - Scikit-learn
 - Ipywidgets
+- imbalanced-learn
 
 These dependencies are listed in the `requirements.txt` file.
 
