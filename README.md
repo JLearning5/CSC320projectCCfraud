@@ -22,7 +22,7 @@ You can run this project interactively in your browser via Google Colab by click
 
 To access and examine the machine learning workflow, please click the badge below:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iXv3pQNWW2-x-_zQSPyJVXDvR0JpYeNw?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pTziVNjo7v9jFVEqm2ynnSvbHcVrZ3fb?usp=sharing)
 
 ## Project Overview
 
