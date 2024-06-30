@@ -30,7 +30,7 @@ The goal of this project is to build a machine learning model to detect fraudule
 
 ## Features
 
-- **Data Preprocessing:** Handling imbalanced data using under-sampling.
+- **Data Preprocessing:** Handling imbalanced data using over-sampling.
 - **Model Training:** Logistic Regression model for classification.
 - **Evaluation:** Model evaluation using accuracy score, ROC curve, and precision-recall curve.
 - **Visualisation:** Various plots to visualise class distribution, transaction amounts, time distribution, correlation matrix, and more.
